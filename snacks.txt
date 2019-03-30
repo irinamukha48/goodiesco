@@ -1,0 +1,9 @@
+Chips,54,25.0,0.75
+Pop corn,45,22.0,0.75
+Pop Corners,45,22.0,0.75
+Veggie Sticks,45,21.0,0.75
+Rice Krispies,45,20.0,0.5
+Cookies,45,36.0,0.75
+Granola Bars,45,40.0,0.5
+Fruit Snacks,45,28.0,0.5
+Snack Bars,45,41.0,0.5

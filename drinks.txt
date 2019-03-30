@@ -1,0 +1,9 @@
+Sunkist,45,39.0,1.25
+Coca Cola,45,39.0,1.25
+Ice Tea,45,38.0,1.25
+Yoohoo,45,35.0,0.5
+Sprite,45,38.0,1.25
+Ginger Ale,45,35.0,1.25
+Dr. Pepper,45,30.0,1.25
+Diet Coke,45,38.0,1.25
+Water,45,35.0,1.0
