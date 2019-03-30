@@ -25,7 +25,7 @@ public class Company_IM
 {
     public static void main(String [] args)
     {
-        Inventory_IM inv = new Inventory_IM("C:\\Users\\imukh\\IdeaProjects\\GoodiesCo\\src\\snacks.txt", "C:\\Users\\imukh\\IdeaProjects\\GoodiesCo\\src\\drinks.txt");//new inventory object
+        Inventory_IM inv = new Inventory_IM("snacks.txt", "drinks.txt");//new inventory object - CHANGE THE FILE LOCATIONS HERE
         Accounting_IM a = new Accounting_IM(inv);//new accounting object
         inv.printStock();
         Manager_IM m = new Manager_IM(30);//new manager object (with 30 dollars)
